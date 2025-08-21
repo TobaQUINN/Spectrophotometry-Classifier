@@ -75,6 +75,6 @@ Here, the idea is: **Can Machine Learning automate this classification?**
 
 ###  Clone Repository  
 ```bash
-git clone https://github.com/yourusername/Spectrophotometry-Classifier.git
+git clone https://github.com/TobaQUINN/Spectrophotometry-Classifier.git
 cd Spectrophotometry-Classifier
 
